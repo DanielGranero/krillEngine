@@ -1,0 +1,8 @@
+## Folders
+.vscode
+
+## Executable
+*.exe
+
+## Objects
+*.o
